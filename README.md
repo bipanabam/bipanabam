@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <h1 align="center">Hi 👋, I'm Bipana Bam.</h1>
 <h3 align="center">A Python Developer</h3>
 
