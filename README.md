@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bipanabam&label=Profile%20views&color=0e75b6&style=flat" alt="bipanabam" /> </p>
 
-- 🔭 I’m currently working on **Python.**
+- 🔭 I’m currently working on **M & MB SofTech.**
 
 - 🌱 I’m currently learning **REST framework in django.**
 
